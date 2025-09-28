@@ -1,6 +1,6 @@
 # CRM
 
-Tech Stack
+## Tech Stack
 - Spring boot
 - Hibernate
 - React
@@ -10,5 +10,5 @@ Tech Stack
 - PostgreSQL
 - Swagger
 
-Description:
+### Description:
 CRM web app to manage relations beetween company and clients, for example it will have events, items, reactions, statistics
