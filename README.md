@@ -6,7 +6,7 @@
 - React
 - Selenium
 - JUnit
-- Render
+- Vercel
 - PostgreSQL
 - Swagger
 
