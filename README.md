@@ -9,3 +9,12 @@
 - logs
 
 ### Description
+
+[ React + Vercel ] <---> [ API Gateway ] <---> [ Backend (Spring Boot) ]
+                                  |                   
+                                  v
+                            [ PostgreSQL ]
+                                  |
+                                  v
+                             [ Logging System ]
+                            (ELK / Datadog / Sentry)
